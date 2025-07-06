@@ -49,8 +49,8 @@ Use .env.example as reference:
 env
 Copy
 Edit
-PORT=5000
-MONGO_URI=mongodb://localhost:27017/adaptnxt_ecom
+PORT={PortNo}
+MONGO_URI=mongodb://localhost:{No}/adaptnxt_ecom
 JWT_SECRET=your_jwt_secret
 4. Run MongoDB locally
 bash
