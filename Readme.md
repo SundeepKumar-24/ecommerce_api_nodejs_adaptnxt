@@ -58,7 +58,7 @@ mongod
 5. Start the development server
 bash
 npm start
-Server runs at: http://localhost:5000
+Server runs at: http://localhost:{PortNo}
 
 🛠 Tech Stack
 Backend: Node.js, Express.js
